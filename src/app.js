@@ -8,11 +8,15 @@ app.use(express.json());
 
 const cors = require('cors');
 
+const allowedOrigins = [
+  'http://localhost:4200',
+  process.env.CLIENT_URL
+];
+
 app.use(cors({
-  origin: 'http://localhost:4200',
+  origin: allowedOrigins,
   credentials: true
 }));
-
 const helmet = require('helmet');
 
 app.use(helmet());
