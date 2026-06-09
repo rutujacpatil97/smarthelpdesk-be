@@ -1,4 +1,6 @@
-# Smart Help Desk - https://smarthelpdesk-frontend.vercel.app
+# Smart Help Desk 
+Frontend: https://smarthelpdesk-frontend.vercel.app/
+Backend: https://smarthelpdesk-be.onrender.com
 
 A full-stack Help Desk / Ticket Management System built using the MEAN Stack (MongoDB, Express.js, Angular, Node.js). The application allows employees to raise support tickets, administrators to manage users and assign tickets, and engineers to resolve issues through a structured workflow.
 
@@ -15,16 +17,11 @@ A full-stack Help Desk / Ticket Management System built using the MEAN Stack (Mo
   * Admin
   * Engineer
   * Employee
- 
-## Demo Credentials To explore the application:
-
-**Engineer Role Login**
-- Email: rutuja@gmail.com
-- Password: Rutuja@123
-> Note: This is a sample account for testing purposes only.
 
 Register as a new user to access employee dashboard
 
+<img width="1892" height="961" alt="image" src="https://github.com/user-attachments/assets/ef3d32b0-3b4f-48fa-b496-4b0481e9c048" />
+<img width="1913" height="962" alt="image" src="https://github.com/user-attachments/assets/6197c1a7-b51a-42aa-9a35-e3e4ea8642b0" />
 
 
 ### Dashboard
@@ -35,6 +32,8 @@ Register as a new user to access employee dashboard
 * In Progress Tickets
 * Resolved Tickets
 * Recent Tickets Overview
+
+<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/b9f4f85a-75b5-4800-ba3c-69472a4a6dc6" />
 
 ### Ticket Management
 
@@ -49,11 +48,21 @@ Register as a new user to access employee dashboard
 * Priority filter
 * Pagination support
 
+<img width="1896" height="952" alt="image" src="https://github.com/user-attachments/assets/7dd36fd2-474c-4e0e-95eb-aa8e24467d77" />
+<img width="1233" height="950" alt="image" src="https://github.com/user-attachments/assets/a922bbdb-650d-4956-831f-67dea6b71b9a" />
+
+
 ### Ticket Workflow
 
 Ticket lifecycle follows:
 
 OPEN → ASSIGNED → IN_PROGRESS → RESOLVED → REOPENED
+
+<img width="1902" height="587" alt="image" src="https://github.com/user-attachments/assets/254e2d5d-6dc7-4ce7-a201-183bc055a714" />
+<img width="1917" height="557" alt="image" src="https://github.com/user-attachments/assets/ee995ee4-93f0-480f-987e-05c894f7d76d" />
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/072f511b-32a7-4707-afd4-ec0b3f755d60" />
+<img width="1915" height="960" alt="image" src="https://github.com/user-attachments/assets/b6a36ca1-ca8d-4be4-9a09-e2b1ab86e411" />
+
 
 ### Assignment Management
 
@@ -76,6 +85,8 @@ OPEN → ASSIGNED → IN_PROGRESS → RESOLVED → REOPENED
 * Filter users by role
 * Delete users
 * Update user roles
+
+<img width="1890" height="947" alt="image" src="https://github.com/user-attachments/assets/2332d324-5067-4246-8339-d23c3255b113" />
 
 ### UI Features
 
